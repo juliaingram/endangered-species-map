@@ -263,11 +263,11 @@ map.on("load", function () {
   );
   map.addLayer(
     {
-      id: "medianIncome",
+      id: "criticalHabitats",
       type: "fill",
       source: {
         type: "geojson",
-        data: "data/medianIncome.geojson",
+        data: "data/habitats.geojson",
       },
       paint: {
         "fill-opacity": 0,

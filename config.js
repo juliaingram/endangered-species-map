@@ -1,9 +1,9 @@
 let topTitleDiv = "<h4>Points Unknown | Tutorial 10 | Mapbox Storytelling</h4>";
 
 let titleDiv =
-  "<h1>The Geographical Distribution of Subway Usage Decrease Due to COVID-19</h1>";
+  "<h1>Endangered Species Habitats Impacted by Human Development</h1>";
 
-let bylineDiv = "<p>By Juan Francisco Saldarriaga and Michael Krisch</p>";
+let bylineDiv = "<p>By Jessie Blaeser, Julia Ingram, Tanaz Meghjani and Susan Merriam</p>";
 
 let descriptionDiv =
   '<p>This tutorial demonstrates how to use <a href="https://github.com/mapbox/storytelling">Mapbox Storytelling</a> with our previous web mapping example. Here we will use Mapbox storytelling template to first, give an overview of the decrease in subway usage around the city, and second, zoom into three different locations that exemplify the diversity of conditions around New York.</p>' +
@@ -50,7 +50,7 @@ let divChapter5 =
   "<p>The South Bronx, perennially marred in social injustice, has also been hard hit during the current COVID-19 outbreak. The area's three main neighborhoods, Mott Haven, Melrose and Port Morris are mostly home to low-income families that have been forced to continue going to work, risking their health and that of their loved ones. Similarly to Jackson Heights in Queens, the areas subway stations have seen a smaller decrease in use than the rest of the city. Median household income in this area oscillates between $15,000 and $30,000.</p>";
 
 var config = {
-  style: "mapbox://styles/juliaingram/cl5ie99ju000h14qfn24at0zz",
+  style: "mapbox://styles/juliaingram/cl5pqzqwd002l14pmduuyvp7x",
   accessToken: "pk.eyJ1IjoianVsaWFpbmdyYW0iLCJhIjoiY2t3d2d6MGQ0MDNqbTJwbGM0NndvN3hxayJ9.99_9XH0Yyi4ejYRE19Tgjw",
   showMarkers: false,
   markerColor: "#3FB1CE",
@@ -69,9 +69,9 @@ var config = {
       hidden: false,
       chapterDiv: divChapter1,
       location: {
-        center: [-74, 40.725],
-        zoom: 10,
-        zoomSmall: 9,
+        center: [-97.255,39.135],
+        zoom: 3.6,
+        zoomSmall: 3.2,
         pitch: 0,
         bearing: 0,
       },
@@ -101,14 +101,14 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
-          layer: "medianIncome",
+          layer: "criticalHabitats",
           opacity: 1,
           duration: 300,
         },
       ],
       onChapterExit: [
         {
-          layer: "medianIncome",
+          layer: "criticalHabitats",
           opacity: 0,
           duration: 300,
         },
@@ -134,14 +134,14 @@ var config = {
       callback: "",
       onChapterEnter: [
         {
-          layer: "medianIncome",
+          layer: "criticalHabitats",
           opacity: 0,
           duration: 300,
         },
       ],
       onChapterExit: [
         {
-          layer: "medianIncome",
+          layer: "criticalHabitats",
           opacity: 0,
           duration: 300,
         },
@@ -156,7 +156,7 @@ var config = {
       description: "",
       chapterDiv: divChapter4,
       location: {
-        center: [-73.886201, 40.744566],
+        center: [-97.255,39.135],
         zoom: 16,
         zoomSmall: 14,
         pitch: 40,
@@ -189,7 +189,7 @@ var config = {
       description: "",
       chapterDiv: divChapter5,
       location: {
-        center: [-73.918037, 40.816093],
+        center: [-97.255,39.135],
         zoom: 15,
         zoomSmall: 14,
         pitch: 40,
