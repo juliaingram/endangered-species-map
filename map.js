@@ -270,7 +270,7 @@ map.on("load", function () {
         data: "data/crithab.geojson",
       },
       paint: {
-        "fill-opacity": 1,
+        "fill-opacity": 0.75,
         "fill-color": "#00a2ca",
       },
     },
