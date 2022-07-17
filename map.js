@@ -218,7 +218,7 @@ map.on("load", function () {
       },
     });
   }
-  map.addLayer(
+  /*map.addLayer(
     {
       id: "turnstileData",
       type: "circle",
@@ -260,14 +260,14 @@ map.on("load", function () {
       },
     },
     "road-label-simple"
-  );
+  );*/
   map.addLayer(
     {
       id: "criticalHabitats",
       type: "fill",
       source: {
         type: "geojson",
-        data: "data/habitats.geojson",
+        data: "data/crithab.geojson",
       },
       paint: {
         "fill-opacity": 0,
