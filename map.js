@@ -263,15 +263,15 @@ map.on("load", function () {
   );*/
   map.addLayer(
     {
-      id: "criticalHabitats",
+      id: "indianaBat",
       type: "fill",
       source: {
         type: "geojson",
-        data: "data/crithab.geojson",
+        data: "data/indianaBat.geojson",
       },
       paint: {
         "fill-opacity": 0.75,
-        "fill-color": "#00a2ca",
+        "fill-color": "#8856a7",
       },
     },
     "waterway-shadow"
