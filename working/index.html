@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Critical Habitats</title>
+    <meta property="og:title" content="Critical Habitats">
+      <meta property="og:description" content="Mapping Project">
+      <meta property="og:type" content="article">
+      <meta property="og:image" content="images/outdoors_base-1659114935864_test.png">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:creator" content="@semerriam">
+    <meta charset="utf-8">
+    <meta name="description" content="mapping project">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet" type='text/css'> 
+  
+    <!-- copied from template -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css' rel='stylesheet' />
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="project-stylesheet-crithab.css">
+    <!-- <link rel="stylesheet" href="styles2.css"> -->
+    <!-- <link type="text/css" href="./styles2.css" rel="stylesheet"/> -->
+    <!-- <link rel="stylesheet" type="text/css" href="../project-stylesheet.css">  -->
+
+
+    <!-- mapping /scrollama scripts -->
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.0.4/scrollama.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+    <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+  </head>
+  
+
+  <body>
+  <!-- 
+      <div id="main">
+        <h1><a href="../../index.html">Susan Merriam<br></a>
+            </h1>
+      </div> -->
+
+
+
+  <!-- Landing Page -->
+
+  <!-- Video Option for Full Bleed Image — copied from Vimeo Embed Code-->
+      <!-- <div class="videoContainer"> 
+          <div style="padding:64.14% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/387205416?h=1faed84c45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CAPD"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+      </div> -->
+
+
+    <div class="full_bleed_container"> 
+      <img src="images/outdoors_base-1659114935864_test.png" alt="Glacier National Park"style="width:100%">
+      <div class="centered2">
+          <h2 class="content__title">Critical Habitats</h2>
+      <br>
+          <p class="content__text">Subtitle Line Line Line Line Line Line</p>
+
+      </div>
+    </div>
+
+    <!-- Chart-Image Footer Graph2-->		
+    <div class="caption">
+      <p class="viz-caption2">Source: U.S. Securities and Exchange Commission — Investment Adviser Public Disclosure Forms</p>
+    </div>
+
+    <!-- Chart-Image Ends-->	
+
+
+    <div class="site-main">
+      <div id="wrapper" class="site-wrapper">
+        <div id="content" class="single single-feature" data-col="2">
+          <div class="single-feature__row">
+            <div id="primary" class="single-feature__col">
+              <div id="article-main">
+
+                <header class="single-post-header">
+                  <div class="single-header">
+                    <p class="single-metadata-single-topic">
+                      <span style="color: #5a6b3e">
+                        <strong>
+                          By Jessie Blaeser, Julia Ingram, Tanaz Meghjani, and Susan Merriam
+                        </strong>
+                      </span>
+                    </p>
+                    
+                    <!-- <h1 class="article-title article-title-single entry-title">Critical Habitats</h1> -->
+            
+                  </div> <!-- single-header -->
+            
+                  <div class="single-header-metadata-and-share-wrap">
+                    <div class="single-header-metadata-wrap">
+                      <!-- <p class="single-metadata-single-byline">
+                        <a href="text" target="_blank"> <u style="text-decoration-color:#9EB777">Github Project Repo</u></a>
+                      </p> -->
+
+                      <p class="topic single-topic">
+
+                        <time class="datetime">Sep. 9, 2022</time>
+
+                    </div><!-- single header info wrap -->
+                  </div><!-- single header info -->
+                </header><!-- single post header -->
+              </div> 
+              <!-- article header container -->
+              
+
+                <div class="textblock"> 
+                  <!-- <br> -->
+                  <h2>Section 1
+                  </h2>
+
+                  <p data-paragraph="main">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                  </p>
+
+                  <p data-paragraph="main">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                  </p>
+
+                  <p data-paragraph="main">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                  </p>
+                </div>
+
+
+
+              </div> <!-- article main -->
+            </div> <!-- single feature col -->
+          </div> <!-- single feature row-->
+        </div> <!-- content -->
+      </div> <!-- wrapper -->
+    </div> <!-- site main -->
+
+    <!-- Mapping 1!! -->
+
+    <div id='map_1' class="map_class">
+      <div id='map'></div>
+      <div id='story'></div>
+    </div>
+
+    
+
+ <!-- Video Option for Full Bleed Image — copied from Vimeo Embed Code-->
+      <!-- <div class="videoContainer"> 
+          <div style="padding:40% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/387205416?h=1faed84c45&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CAPD"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+      </div> -->
+
+      <div class="site-main">
+        <div id="wrapper" class="site-wrapper">
+          <div id="content" class="single single-feature" data-col="2">
+            <div class="single-feature__row">
+              <div id="primary" class="single-feature__col">
+                <div id="article-main">
+                    <div class="textblock"> 
+  
+                        <h2>Glacier National Park Melting
+                        </h2>
+  
+                        <p data-paragraph="main">
+                     
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                          </p>
+                          
+                          <br>
+                          <br>
+                          <img src="images/glacier1.jpg" alt="Glacier National Park"style="width:60%">
+                          
+                          <!-- Chart-Image Footer Graph2-->		
+                          <div class="caption">
+                            <p class="viz-caption">Source: U.S. Securities and Exchange Commission — Investment Adviser Public Disclosure Forms</p>
+                          </div>
+  
+                          <!-- Chart-Image Ends-->	
+                          <br>
+                          <br>
+  
+                          <p data-paragraph="main">
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
+                          </p>
+        
+                          <p data-paragraph="main">
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. 
+                          </p>
+  
+                    </div>
+  
+  
+  
+                </div> <!-- article main -->
+              </div> <!-- single feature col -->
+            </div> <!-- single feature row-->
+          </div> <!-- content -->
+        </div> <!-- wrapper -->
+    </div> <!-- site main -->
+
+
+    <div id='map_2' class="map_class">
+      <div id='map2'></div>
+      <div id='story2'></div>
+    </div>
+  
+
+      <div class="videoContainer">
+        <div style="max-width:70%; margin-left:auto; margin-right:auto" ;="" padding:none;="" display:none;="" position:="" relative=""><video controls="" width="100%" autoplay="true" loop="true"><source src="images/Sapelo_Island_Flyover.mp4" type="video/mp4"></video></div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+
+    <div class="site-main">
+        <div id="wrapper" class="site-wrapper">
+          <div id="content" class="single single-feature" data-col="2">
+            <div class="single-feature__row">
+              <div id="primary" class="single-feature__col">
+                <div id="article-main">
+                    <div class="textblock"> 
+                      <h2>Rusty Patch Bumblebee
+                      </h2>
+                        <p data-paragraph="main">
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                          </p>
+        
+                          <p data-paragraph="main">
+                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                          </p>
+
+                    </div>
+                    <br>
+                    <br>
+                    <div class="videoContainer">
+                      <div style="max-width:50%; margin-left:auto; margin-right:auto" ;="" padding:none;="" display:none;="" position:="left" relative="">
+                      <iframe src="https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0" width="900" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+                    </div>
+                    </div>
+
+
+                </div> <!-- article main -->
+              </div> <!-- single feature col -->
+            </div> <!-- single feature row-->
+          </div> <!-- content -->
+        </div> <!-- wrapper -->
+    </div> <!-- site main -->
+
+    <!-- <div class="videoContainer">
+      <div style="max-width:50%; margin-left:auto; margin-right:auto" ;="" padding:none;="" display:none;="" position:="center" relative="">
+      <iframe src="https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0" width="700" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    </div> -->
+
+
+    <div id='map_3' class="map_class">
+      <div id='map3'></div>
+      <div id='story3'></div>
+    </div>
+
+    <div class="videoContainer">
+      <div style="max-width:70%; margin-left:auto; margin-right:auto" ;="" padding:none;="" display:none;="" position:="" relative=""><video controls="" width="100%" autoplay="true" loop="true"><source src="images/Sapelo_Island_Flyover.mp4" type="video/mp4"></video></div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <!-- <div class="full_bleeed_container"> 
+      <img src="images/outdoors_base-1659114935864_test.png" alt="Glacier National Park"style="width:100%">
+    </div> -->
+
+   
+
+    
+
+
+    <!-- <div style="max-width:70%; margin-left:auto; margin-right:auto" ;="" padding:none;="" display:none;="" position:="" relative=""><video controls="" width="100%" autoplay="true" loop="true"><source src="images/Sapelo_Island_Flyover.mp4" type="video/mp4"></video></div> -->
+
+
+
+    <div class="site-main">
+      <div id="wrapper" class="site-wrapper">
+        <div id="content" class="single single-feature" data-col="2">
+          <div class="single-feature__row">
+            <div id="primary" class="single-feature__col">
+              <div id="article-main">
+                  <div class="textblock"> 
+
+                      <h2>Section 3
+                      </h2>
+
+                      <p data-paragraph="main">
+                   
+                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                        </p>
+                        
+                        <br>
+                        <br>
+                        <img src="images/outdoors_base-1659114935864_test.png" alt="Glacier National Park"style="width:100%">
+                        
+                        <!-- Chart-Image Footer Graph2-->		
+                        <div class="caption">
+                          <p class="viz-caption">Source: U.S. Securities and Exchange Commission — Investment Adviser Public Disclosure Forms</p>
+                        </div>
+
+                        <!-- Chart-Image Ends-->	
+                        <br>
+                        <br>
+
+                        <p data-paragraph="main">
+                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                        </p>
+      
+                        <p data-paragraph="main">
+                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                        </p>
+
+                  </div>
+
+
+
+              </div> <!-- article main -->
+            </div> <!-- single feature col -->
+          </div> <!-- single feature row-->
+        </div> <!-- content -->
+      </div> <!-- wrapper -->
+  </div> <!-- site main -->
+
+
+  <div class="full_bleeed_container"> 
+    <img src="images/outdoors_base-1659114935864_test.png" alt="Glacier National Park"style="width:100%">
+  </div>
+
+  <div class="site-main">
+    <div id="wrapper" class="site-wrapper">
+      <div id="content" class="single single-feature" data-col="2">
+        <div class="single-feature__row">
+          <div id="primary" class="single-feature__col">
+            <div id="article-main">
+                <div class="textblock"> 
+
+                    <p data-paragraph="main">
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                      </p>
+    
+                      <p data-paragraph="main">
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                      </p>
+    
+                      <p data-paragraph="main">
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+                      </p>
+
+                </div>
+
+
+
+            </div> <!-- article main -->
+          </div> <!-- single feature col -->
+        </div> <!-- single feature row-->
+      </div> <!-- content -->
+    </div> <!-- wrapper -->
+</div> <!-- site main -->
+
+    <script src='config.js'></script>
+    <script type='text/javascript' src="map.js"></script> 
+    <script src='config2.js'></script>
+    <script type='text/javascript' src="map2.js"></script>   
+    <script src='config3.js'></script>
+    <script type='text/javascript' src="map3.js"></script>   
+
+
+  </body>
+</html>
