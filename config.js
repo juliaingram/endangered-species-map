@@ -9,27 +9,22 @@ let bylineDiv = "<br><br><br><div class='textblock'><p class='single-metadata-si
 
 let descriptionDiv =
 "<div class='textblock'> <h2>Section 1</h2></div>" + 
-"<div class='textblock'> <p data-paragraph='main'>On a hillside in Rockport, Illinois, there is a 14-acre plot of land that has not been touched for thousands of years.</p></div>" +
 
-"<div class='textblock'><p data-paragraph='main'>&#8220Within it, an ecological symphony exists; rare plants feed off fungi in the soil, and threatened and endangered birds and insects can interact in relative peace, away from the international airport that surrounds the haven.&#8220</p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>In 2019, the Trump administration made the first changes to the Endangered Species Act in decades, loosening protections and making it more difficult for critical habitats to be established for all newly-listed federally threatened and endangered species.  </p></div>" + 
 
-"<div class='textblock'><p data-paragraph='main'>These species, at least one federally endangered, have less than two months left before activists say the habitat will be destroyed. Years ago, the Bell Bowl Prairie, one of the last gravel and hillside prairies remaining in the country, could may have received critical habitat designationdistinction from the (?) Fish and Wildlife Service, which would have granted additional protections to the area tofor the purposes of preserveing the habitat of the rusty-patched bumble bee that expert(s) say is likely to forages there and is likely to nest there. </p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>A Columbia Journalism investigation revealed at least three land-based species that were denied additional protections as a direct result of the Trump administration’s changes: two species of stonefly and the rusty-patched bumble bee. Each faces immediate threats as a result, including irreversible habitat destruction. </p></div>" + 
 
-"<div class='textblock'><p data-paragraph='main'>But in 2019, the Trump administration made the first changes to the Endangered Species Act in decades, loosening protections and making it more difficult for critical habitats to be established for all newly-listed federally threatened and endangered species, such as the rusty-patched bumble bee. </p></div>" + 
-
-"<div class='textblock'><p data-paragraph='main'>A Columbia Journalism investigation revealed at least three land-based species that were denied additional protections as a direct result of the Trump administration’s changes: two species of stonefly and the rusty-patched bumble bee. Each faces immediate threats as a result, including irreversible habitat destruction.</p></div>" + 
-
-"<div class='textblock'><p data-paragraph='main'>These three insects serve as a case study into the impact of Trump’s changes during their short lifespan, and how they might impact endangered and threatened species in the future if they were to remain in place. </p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>These three insects serve as case studies into how the Trump administration’s changes might impact endangered and threatened species in the future if they were to remain in place. </p></div>" + 
 
 
-"<div class='textblock'><p data-paragraph='main'>Today, at least these three species, and ones to come under the weakened protection of the Endangered Species Act, face irreparable harm from climate change, pesticides, infrastructure projects and more. <br></p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>The new regulations took effect in August 2019, but were quickly challenged in court by conservation groups and the state of California.  <br></p></div>" + 
 
 "<div class='textblock'> <h2><br>Sub Header</h2></div>" + 
-"<div class='textblock'><p data-paragraph='main'>The Trump Administration’s changes took immediate effect in August 2019, but they were quickly challenged in court by conservation groups and the state of California.</p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>This July, a district court judge in northern California reversed the regulations, but victory for environmentalists was short-lived. </p></div>" + 
 
-"<div class='textblock'><p data-paragraph='main'>This July, a district court judge in northern California reached a decision: the Trump administration’s 2019 changes would be reversed. </p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>Less than one month after the judge issued his ruling, the American Petroleum Institute, the American Farm Bureau Federation and a handful of Republican-led states filed an <u style='text-decoration-color:#9EB777'>appeal</u>, requesting a stay order on the court’s determination as the appeal plays out. If granted, a stay would mean the 2019 rules would remain in place while the court reaches a verdict on the appeal. And if the appeal is successful, it would send environmental groups back to the starting line and keep loosened protections in place for future endangered and threatened species. </p></div>" + 
 
-"<div class='textblock'><p data-paragraph='main'>Victory for environmentalists was short-lived. Less than one month after the judge issued his ruling, the American Petroleum Institute, the American Farm Bureau Federation and a handful of Republican-led states filed an appeal, requesting a stay order on the court’s determination as the appeal plays out. If granted, a stay would mean the 2019 rules would remain in place while the court reaches a verdict on the appeal — something that could take months or years — effectively sending environmental groups back to the starting line. <br><br><br><br><br></p></div>" ;
+"<div class='textblock'><p data-paragraph='main'>While the legal battle pans out, at least these three species face irreparable harm from climate change, pesticides, infrastructure projects and more.  <br><br><br><br><br></p></div>" ;
 
 
 
