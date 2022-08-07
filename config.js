@@ -19,7 +19,7 @@ let descriptionDiv =
 
 "<div class='textblock'><p data-paragraph='main'>The new regulations took effect in August 2019, but were quickly challenged in court by conservation groups and the state of California.  <br></p></div>" + 
 
-"<div class='textblock'> <h2><br>Sub Header</h2></div>" + 
+// "<div class='textblock'> <h2><br>Sub Header</h2></div>" + 
 "<div class='textblock'><p data-paragraph='main'>This July, a district court judge in northern California reversed the regulations, but victory for environmentalists was short-lived. </p></div>" + 
 
 "<div class='textblock'><p data-paragraph='main'>Less than one month after the judge issued his ruling, the American Petroleum Institute, the American Farm Bureau Federation and a handful of Republican-led states filed an <u style='text-decoration-color:#9EB777'>appeal</u>, requesting a stay order on the court’s determination as the appeal plays out. If granted, a stay would mean the 2019 rules would remain in place while the court reaches a verdict on the appeal. And if the appeal is successful, it would send environmental groups back to the starting line and keep loosened protections in place for future endangered and threatened species. </p></div>" + 
