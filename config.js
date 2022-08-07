@@ -266,7 +266,7 @@ var prairie_action_area_opacity_0 =   {
 
 
 var config = {
-  style: 'mapbox://styles/smerriam/cl5wxan5k001314lf58461rqm',
+  style: 'mapbox://styles/smerriam/cl6jk5u6b002j15n7xqhyl9wj',
   accessToken: 'pk.eyJ1Ijoic21lcnJpYW0iLCJhIjoiY2w1d25ndHE2MGxjNDNlcGd4cTdyemI0NiJ9.5y-hv6UtsINsmAiGjNqp_A',
   showMarkers: false,
   markerColor: "#3FB1CE",
