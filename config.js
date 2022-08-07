@@ -716,8 +716,9 @@ var config = {
       description: "",
       chapterDiv: divChapter12,
       location: {
-        center: [-80.570281, 38.2542994],
-        zoom: 7,
+//         center: [-80.570281, 38.2542994],
+        center: [-79.540281, 38.3442994],
+        zoom: 8.6,
         zoomSmall: 14,
         pitch: 0,
         bearing: 0,
