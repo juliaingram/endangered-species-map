@@ -253,9 +253,9 @@ map.on("load", function () {
     },
     "type": "line",
     "paint": {
-    "line-width": 0.8,
-    "line-color": 
-    '#af9db9',
+        "line-width": 0.8,
+        "line-color": 
+        '#af9db9',
     },  
   }, 'fly-8h7e0l'); 
 
@@ -270,18 +270,11 @@ map.on("load", function () {
           "fill-color": 
           // '#f2c6ab',
           '#af9db9',
-              "fill-opacity": 0.5,
+          "fill-opacity": 0.5,
       }
   },'all_species_line2'); 
 
   // pipeline
-
-  const speedFactor = 100; // number of frames per longitude degree
-  let animation; // to store and cancel the animation
-  let startTime = 0;
-  let progress = 0; // progress = timestamp - startTime
-  let resetTime = false; // indicator of whether time reset is needed for the animation
-
   map.addLayer({
     'id': 'pipeline',
     'source': {
@@ -497,29 +490,7 @@ map.on("load", function () {
     }
   }, 'road-intersection-copy-1'); 
 
-
-
-//   map.addLayer({
-//     'id': 'bee',
-//     'type': 'fill',
-//     'source': {
-//         'type': 'geojson',
-//         'data': 'data/bee.geojson'
-//     },
-//     'paint': {
-//       //   'fill-color': '#ffb703',
-//         // 'fill-color': '#D1C783',
-//         'fill-color': '#f3e0a0',
-//         'fill-opacity': 0.5,
-//       // "fill-outline-color": "#AEA56E",
-//       //   'fill-outline-opacity': 0.5
-
-
-//     }
-// }, 'road-intersection-copy-1'); 
-
   
-
   // Setup the instance, pass callback functions
   scroller
     .setup({
