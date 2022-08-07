@@ -814,18 +814,64 @@ var config = {
       rotateAnimation: false,
       callback: "",
       onChapterEnter: [
-        all_species_fill_opacity_0,
+       all_species_fill_opacity_0,
         all_species_line_opacity_0,
         pipeline_opacity_0,
-        prairie_action_area_opacity_0,
-        prairie_construction_impact_opacity_0,
-        prairie_road_opacity_0,
-        prairie_moderate_quality_opacity_0,
-        prairie_six_acres_opacity_0,
-        prairie_high_quality_opacity_0,
-        prairie_degraded_opacity_0,
-        prairie_full_opacity_0,
-        prairie_base_opacity_0,
+        {
+          // base
+          layer: "prairie_base",
+          opacity: 0,
+          duration: 300,
+        },
+        {
+          layer: "prairie_full",
+          opacity: 1,
+          // opacity: 1,
+          duration: 300,
+        },
+        {
+          layer: "prairie_degraded",
+          opacity: 0,
+          // opacity: 0.8,
+          duration: 300,
+        },
+        {
+          // 
+          layer: "prairie_high_quality",
+          opacity: 0,
+          // opacity: 0.8,
+          duration: 300,
+        },
+        {
+          layer: "prairie_six_acres",
+          opacity: 0,
+          duration: 300,
+        },
+        {
+          layer: "prairie_moderate_quality",
+          opacity: 0,
+          // opacity: 1,
+          duration: 300,
+        },
+        {
+          // prairie section
+          layer: "prairie_road",
+          opacity: 0,
+          // opacity: 0.8,
+          duration: 300,
+        },
+        {
+          // 
+          layer: "prairie_construction_impact",
+          opacity: 0,
+          // opacity: 0.8,
+          duration: 300,
+        },
+        {
+          layer: "prairie_action_area",
+          opacity: 0,
+          duration: 300,
+        },
       ],
       onChapterExit: [],
     },
@@ -854,7 +900,7 @@ var config = {
         {
           // base
           layer: "prairie_base",
-          opacity: 0.4,
+          opacity: 0.6,
           duration: 300,
         },
         {
