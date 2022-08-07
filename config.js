@@ -5,8 +5,6 @@ let titleDiv = "<div class='full_bleed_container'> <img src='images/outdoors_bas
 let bylineDiv = "<br><br><br><div class='textblock'><p class='single-metadata-single-topic'> <span style='color: #5a6b3e'> <strong> " +
     " By Jessie Blaeser, Julia Ingram, Tanaz Meghjani, and Susan Merriam</strong></span></p>" + "<p class='topic single-topic'><time class='datetime'>Sep. 9, 2022</time></div></div>" + "<br><br>";
 
-// let subTitleDiv = "<p class='topic single-topic'><time class='datetime'>Sep. 9, 2022</time></div>";
-
 let descriptionDiv =
 "<div class='textblock'> <h2>Section 1</h2></div>" + 
 
@@ -25,10 +23,6 @@ let descriptionDiv =
 "<div class='textblock'><p data-paragraph='main'>Less than one month after the judge issued his ruling, the American Petroleum Institute, the American Farm Bureau Federation and a handful of Republican-led states filed an <u style='text-decoration-color:#9EB777'>appeal</u>, requesting a stay order on the court’s determination as the appeal plays out. If granted, a stay would mean the 2019 rules would remain in place while the court reaches a verdict on the appeal. And if the appeal is successful, it would send environmental groups back to the starting line and keep loosened protections in place for future endangered and threatened species. </p></div>" + 
 
 "<div class='textblock'><p data-paragraph='main'>While the legal battle pans out, at least these three species face irreparable harm from climate change, pesticides, infrastructure projects and more.  <br><br><br><br><br></p></div>" ;
-
-
-
-;
 
 let divChapter0 =
   "<p>Under the Endangered Species Act, <span style='background-color:rgb(175, 157, 185, 0.6)'>critical habitats</span> were the areas deemed essential to the preservation of federally endangered or threatened species. One of the key functions of the Endangered Species Act is ensuring no federal agency destroys or damages these critical habitats with projects like road building, mining and more.</p>" +
@@ -103,8 +97,6 @@ let divChapter5 =
 // "<div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='100%' height=600' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe>" + 
 
 // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='100%' height=900' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>" + 
-
-
 ;
 
   let divChapter7 =
@@ -112,7 +104,6 @@ let divChapter5 =
   "<div class='textblock'><p data-paragraph='main'><h2>Rusty Patch Bumblebee</h2></p></div>"  +
   "<div class='textblock'> <p data-paragraph='main'>The <span style='background-color:rgb(231, 198, 104, 0.95)'>rusty-patched bumble bee</span> joined the federally endangered list in 2017. At the time, the Fish and Wildlife recommended the distinction of a critical habitat for the species, only to deny the bee that distinction in 2020, following the Trump administration’s changes. </p></div>";
   // "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>"
-  
   // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='100%' height=900' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>";
 
 
@@ -129,7 +120,7 @@ let divChapter5 =
   "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p></div><br><br>";
 
   let divChapter11 =
-  // "<h3>Bees Midwest VA</h3>" +
+  // "<h3>Pipeline intro VA</h3>" +
   // '<img src="images/Chapter_4_Image.jpg">' +
   // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
   "<p>One such project, the <span style='background-color:rgb(238, 108, 77, 0.8)'>Atlantic Coast Pipeline</span>, was slated to span 650 miles, four states, multiple critical habitats and a handful of national parks.</p>" + "<p>After years of litigation over the pipeline’s path led to the project’s cancellation in 2020, the Federal Energy Regulatory Commission approved a new plan for its completion in 2022. Construction is scheduled to begin as early as this fall, according to the project’s website.</p>"
@@ -137,21 +128,11 @@ let divChapter5 =
 
   let divChapter12 =
   // "<h3>Pipeline1</h3>" +
- "<p>Many activists and community groups remain in opposition to the project. Among them are bee experts like Lief Richardson.</p>" +  "<p>According to Richardson, these mountainous and forested areas are the “original ecosystem” for the rusty-patched bumble bee’s habitat.</p>" +  "<p>“If you want critical habitat,” Richardson said, “take the mountains of West Virginia and Virginia. That is the single most important population that persists.” </p>";
+ "<p>Many activists and community groups remain in opposition to the project. Among them are bee experts like Lief Richardson.</p>" +  "<p>According to Richardson, these mountainous and forested areas are the “original ecosystem” for the rusty-patched bumble bee’s habitat.</p>";
 
   let divChapter13 =
 //   "<h3>Pipeline2</h3>" +
-  "<p>Furthermore, because the bee does not have critical habitat distinction, Richardson said no study was conducted to estimate nest density for the rusty-patched bumble bee in the pipeline’s construction path, which would have been an essential step if the area was under critical habitat protection.</p>" +  "<p>Instead, the Service used studies from a different bee that is a close relative of the rusty-patched species. However, Richardson says the bee “is completely different from the rusty-patched bumble bee in every way, except that phylogeny connects them.” </p>";
-
-  // let divChapter14 =
-  // "<h3>Bees Midwest</h3>" +
-  // // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
-  // "<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>";
-
-  // let divChapter15 =
-  // "<h3>Bees Midwest 2</h3>" +
-  // // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
-  // "<p>The South Bronx, perennially marred in social injustice, has also been hard hit during the current COVID-19 outbreak. The area's three main neighborhoods, Mott Haven, Melrose and Port Morris are mostly home to low-income families that have been forced to continue going to work, risking their health and that of their loved ones. Similarly to Jackson Heights in Queens, the areas subway stations have seen a smaller decrease in use than the rest of the city. Median household income in this area oscillates between $15,000 and $30,000.</p>";
+  "<p>“If you want critical habitat,” Richardson said, “take the mountains of West Virginia and Virginia. That is the single most important population that persists.” </p>";
 
   let divChapter16 =
 //   "<h3>Prairie1</h3>" +
@@ -182,11 +163,6 @@ let divChapter5 =
   "<h3>Prairie E</h3>" +
   "<p>At the time of the bee’s discovery, the airport had already built its roadway on either side of the prairie, where it remains today, an eerie reminder of the pending determination from the Fish and Wildlife Service.</p>" + 
   "<p>It’s unknown whether or not the Bell Bowl Prairie would have been included in the rusty-patched Bee critical habitat, if one had been designated. But there’s little question among activists and experts that not having the distinction makes it easier for areas like the Bell Bowl Prairie to disappear. </p>";
-
-
-  // let divChapter22 =
-  // "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>";
-
 
   let divChapter23 =
   "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" +
