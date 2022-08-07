@@ -182,6 +182,7 @@ let divChapter5 =
   // <div class='centered2'></div>
   
   "<p data-paragraph='main'><img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></img></p>" + 
+  "<div class='textblock'><div class='caption'><p class='viz-caption'>Source: Name?</p></div></div><br><br>" +
   "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species’ population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to consider more than just preservation, and take into account species recovery as well. </p></div>" +
   "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div>" 
   +
