@@ -1,20 +1,4 @@
-
-// <!-- <div class="full_bleed_container"> 
-// <img src="images/outdoors_base-1659114935864_test.png" alt="Glacier National Park"style="width:100%">
-
-// <div class="centered2">
-//     <h2 class="content__title">Critical Habitats</h2>
-// <br>
-//     <p class="content__text">Subtitle Line Line Line Line Line Line</p>
-
-// </div>
-// </div> -->
-
-
-
-// let openingImageDiv = "";
-
-// const openingContainer = document.getElementById("titleDiv");
+// Config File
 
 let titleDiv = "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'><div class='centered2'><h1 class='content__title'>Critical Habitats</h1><br><h5 class='content_text'>Subtitle Line Line Line Line Line Line</h5></div></div>";
 
@@ -91,7 +75,6 @@ let divChapter1 =
 
 let divChapter2 =
   "<h3></h3>" +
-  // '<img src="images/Chapter_2_Image.jpg">' +
   "<p>Climate change is the primary threat to the Western Glacier Stonefly and the Meltwater Lednian Stonefly, as outlined by the Fish and Wildlife Service. </p>" + 
 
   "<p>In 2016, the Fish and Wildlife Service published a proposed ruling on <span style='background-color:rgb(190, 139, 121, 0.8)'>both flies</span>, recommending each be brought under the protection of the Endangered Species Act as “threatened” species. The next step for the Service, as outlined in their proposal, was to publish a final rule where it would determine a critical habitat for each stonefly. </p>"
@@ -175,19 +158,6 @@ let divChapter5 =
   "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
   "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
   "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p></div><br><br>";
-
-  // "<div class='textblock'><p data-paragraph='main'><h2>Rusty Patch Bumblebee</h2></p></div>"  +
-  // "<div class='textblock'> <p data-paragraph='main'>The rusty-patched bumble bee joined the federally endangered list in 2017. At the time, the Fish and Wildlife recommended the distinction of a critical habitat for the species, only to deny the bee that distinction in 2020, following the Trump administration’s changes. </p></div>" +
-
-  // "<div class='textblock'> <p data-paragraph='main'>The rusty patched bumble bee was historically found in areas ranging from the upper midwest to the eastern seaboard. It is flexible with regards to its habitat and has been observed in a variety of habitats such as prairies, woodlands, marshes and residential parks. It’s also a generalist forager and gathers pollen and nectar from a wide range of flowering plants, according to the Fish and Wildlife Service.  </p></div>" 
-  // +
-  // "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
-  // // "<div class='videoContainer'><div style='max-width:50%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='500' height=400' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>"
-  // "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
-  // "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
-  // "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p>" + 
-  // "<div class='textblock'> <p data-paragraph='main'>While the species is said to be adaptable, it experienced “widespread and steep” population decline. A nationwide study conducted by TK petition estimated that “the rusty patched bumble bee had been lost from 87% of its historic range and that its relative abundance had declined by 95% </p></div><br><br>"
-  
 
   let divChapter11 =
   // "<h3>Bees Midwest VA</h3>" +
