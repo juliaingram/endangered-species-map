@@ -431,7 +431,7 @@ map.on("load", function () {
   //prairie_road
   map.addSource('prairie_locG', {
     'type': 'image',
-    'url': 'https://raw.githubusercontent.com/semerriam/points-unknown/main/projects/pj-critical-habitats/layers/road2.gif',
+    'url': 'https://raw.githubusercontent.com/semerriam/points-unknown/main/projects/pj-critical-habitats/layers/road.gif',
     'coordinates': [
         [-89.1215, 42.20305],
         [-89.08329, 42.20305],
