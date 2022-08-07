@@ -41,25 +41,12 @@ let footerDiv =
   +
   "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div><br><br>"; 
 
-// let divChapter0 =
-//   "<div class='textblock'> <h2>Section 1</h2></div>" + 
-//   "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p></div>" +
-
-//   "<div class='textblock'><p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p></div>" + 
-
-//   "<div class='textblock'><p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p></div>";
-
 let divChapter0 =
-  // "<h2>Overall Map Test 0</h2>" +
-  // '<img src="images/Chapter_1_Image.jpg">' +
-  // '<p class="imageCredit"><a href="http://www.metouhey.com/">Max Touhey</a></p>' +
   "<p>Under the Endangered Species Act, <span style='background-color:rgb(175, 157, 185, 0.6)'>critical habitats</span> were the areas deemed essential to the preservation of federally endangered or threatened species. One of the key functions of the Endangered Species Act is ensuring no federal agency destroys or damages these critical habitats with projects like road building, mining and more.</p>" +
   "<p>But under the Trump administration’s changes, critical habitats became more difficult to designate, and the Services have less power to modify federal projects that interfere with these areas. </p>"
   ;
 
 let divChapter1 =
-  // '<img src="images/Chapter_1_Image.jpg">' +
-  // '<p class="imageCredit"><a href="http://www.metouhey.com/">Max Touhey</a></p>' +
   "<div class='textblock'> <h2><br>Sub Header 2</h2></div>" + 
   "<div class='textblock'><p data-paragraph='main'>One key change prevented the Fish and Wildlife and Marine Fishery Services from granting critical habitats if the primary threat to a species’ habitat is outside of the Services’ control. </p></div>" + 
   
@@ -78,11 +65,11 @@ let divChapter2 =
 
 let divChapter3 =
   // "<h3>Fly2</h3>" +
-  // '<img src="images/Chapter_3_Image.jpg">' +
   "<p>Both stoneflies depend on extremely cold glacial meltwater for their survival. They are found in high-elevation alpine streams, like those in Glacier National Park and Grand Teton National Park.</p>";
 
 let divChapter4 = 
 // "<h3>Fly3</h3>" +
+// '<img src="images/Chapter_3_Image.jpg">' +
 "<p>uBut rRising temperatures have made the glaciers in Glacier National Park their own dying breed. Of the estimated 150 glaciers that existed in Glacier National Parkthe park in 1850, only 25 remain.</p>";
 
 let divChapter8 =
@@ -123,10 +110,7 @@ let divChapter5 =
 "<div class='textblock'> <p data-paragraph='main'>After the 2019 changes, the Service’s only choice was the former.<br><br></p></div>";
 
 // let divChapter6 =
-//   "<h3>Fly 3</h3>" +
-//   // '<img src="images/Chapter_4_Image.jpg">' +
-//   // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
-  
+//   "<h3>Fly 3b</h3>" +
 // "<div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='100%' height=600' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe>" + 
 
 // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='100%' height=900' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>" + 
@@ -164,80 +148,58 @@ let divChapter5 =
 
   let divChapter12 =
   // "<h3>Pipeline1</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
-  "<p>Many activists and community groups remain in opposition to the project. Among them are bee experts like Lief Richardson.</p>" +  "<p>According to Richardson, these mountainous and forested areas are the “original ecosystem” for the rusty-patched bumble bee’s habitat.</p>" +  "<p>“If you want critical habitat,” Richardson said, “take the mountains of West Virginia and Virginia. That is the single most important population that persists.” </p>";
+ "<p>Many activists and community groups remain in opposition to the project. Among them are bee experts like Lief Richardson.</p>" +  "<p>According to Richardson, these mountainous and forested areas are the “original ecosystem” for the rusty-patched bumble bee’s habitat.</p>" +  "<p>“If you want critical habitat,” Richardson said, “take the mountains of West Virginia and Virginia. That is the single most important population that persists.” </p>";
 
   let divChapter13 =
-  "<h3>Pipeline2</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
+//   "<h3>Pipeline2</h3>" +
   "<p>Furthermore, because the bee does not have critical habitat distinction, Richardson said no study was conducted to estimate nest density for the rusty-patched bumble bee in the pipeline’s construction path, which would have been an essential step if the area was under critical habitat protection.</p>" +  "<p>Instead, the Service used studies from a different bee that is a close relative of the rusty-patched species. However, Richardson says the bee “is completely different from the rusty-patched bumble bee in every way, except that phylogeny connects them.” </p>";
 
   // let divChapter14 =
   // "<h3>Bees Midwest</h3>" +
-  // // '<img src="images/Chapter_4_Image.jpg">' +
   // // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
   // "<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>";
 
   // let divChapter15 =
   // "<h3>Bees Midwest 2</h3>" +
-  // // '<img src="images/Chapter_4_Image.jpg">' +
   // // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
   // "<p>The South Bronx, perennially marred in social injustice, has also been hard hit during the current COVID-19 outbreak. The area's three main neighborhoods, Mott Haven, Melrose and Port Morris are mostly home to low-income families that have been forced to continue going to work, risking their health and that of their loved ones. Similarly to Jackson Heights in Queens, the areas subway stations have seen a smaller decrease in use than the rest of the city. Median household income in this area oscillates between $15,000 and $30,000.</p>";
 
   let divChapter16 =
-  "<h3>Prairie1</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
-
+//   "<h3>Prairie1</h3>" +
   "<p>TMeanwhile, on a hillside in Rockport, Illinois, there is a 14-acre plot of land home to the rusty-patched bumblebee that has not been touched for thousands of years.</p>" + 
   "<p>Within it, an ecological symphony exists; rare plants feed off fungi in the soil, and threatened and endangered birds and insects can interact in relative peace, away from the international airport that surrounds the haven.</p>" + 
   "<p>But these species, including the bumblebee, have less than two months left before activists say the habitat will be destroyed.</p>";
 
   let divChapter17 =
-  "<h3>PrairieA</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
+//   "<h3>PrairieA</h3>" +
   "<p>The Bell Bowl Prairie, one of the last gravel and hillside prairies remaining in the country, may have fallen under the bee’s critical habitat before Trump’s regulations. Without this designation, the Chicago Rockford International Airport faces one less obstacle to level the majority of the remaining prairie.</p>" + 
   "<p>If the prairie had been included in the rusty-patched bumble bee’s critical habitat, “it definitely would have helped,” Save Bell Bowl Prairie organizer Jillian Neece said.</p>";
 
 
   let divChapter18 =
-  "<h3>PrairieB</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
+//   "<h3>PrairieB</h3>" +
   "<p>In the airport’s biological assessment of the area, it proposes six possibilities for construction. In the most-likely scenario, roughly six acres of prairie are preserved, which will be bifurcated by a road.</p>";
 
   let divChapter19 =
-  "<h3>PrairieC</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
+//   "<h3>PrairieC</h3>" +
   "<p>“It will be very hard for that remaining six [acres] to be of value,” said Robbie Telfer, another lead organizer for Save Bell Bowl, citing salt run-off, invasive seed species from passing trucks and the possible shading-out of the prairie by land grading. </p>";
 
   let divChapter20 =
-  "<h3>PrairieD</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
+//   "<h3>PrairieD</h3>" +
   "<p>While the airport has argued it is preserving the “highest” quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called high-quality areas will quickly diminish without any sort of buffer. </p>" + 
   "<p>“Calling it high quality, low quality…is an excuse to destroy more of the prairie,” Telfer said. Prior to the discovery of the rusty-patched bumble bee in the area in 2021, the airport had already destroyed over six acres of what it called “low” and “moderate” quality prairie, including the area’s namesake “bowl,” or natural amphitheater.</p>";
 
   let divChapter21 =
   "<h3>Prairie E</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
-  // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
   "<p>At the time of the bee’s discovery, the airport had already built its roadway on either side of the prairie, where it remains today, an eerie reminder of the pending determination from the Fish and Wildlife Service.</p>" + 
   "<p>It’s unknown whether or not the Bell Bowl Prairie would have been included in the rusty-patched Bee critical habitat, if one had been designated. But there’s little question among activists and experts that not having the distinction makes it easier for areas like the Bell Bowl Prairie to disappear. </p>";
 
 
   // let divChapter22 =
-  // // "<h3>Image op</h3>" +
-  // // '<img src="images/Chapter_4_Image.jpg">' +
   // "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>";
 
 
   let divChapter23 =
-  // "<p data-paragraph='main'><img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></img></p>" + 
   "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" +
   "<div class='textblock'><p data-paragraph='main'><h2><br><br>last chunk 1</h2></p></div>"  +
   "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species’ population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to consider more than just preservation, and take into account species recovery as well. </p></div>" +
@@ -247,18 +209,10 @@ let divChapter5 =
   // "<div class='videoContainer'><div style='max-width:50%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='500' height=400' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>"
   ;
 
-
-  // let divChapter24 =
-  // "<div class='textblock'><p data-paragraph='main'><h2>last_chunk2</h2></p></div>"  +
-  // "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p></div>" +
-  // "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div>" 
-  // +
-  // "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div><br><br>" + 
-  // "<div class='videoContainer'><div style='max-width:50%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='500' height=400' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div>";
-
   let finalimg = "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'><div class='centered2'><h1 class='content__title'>Critical Habitats</h1><br><h5 class='content_text'>Subtitle Line Line Line Line Line Line</h5></div></div>";
 
 
+// Creating Variables for layers at 0 Opacity
 var all_species_fill_opacity_0 = {
     layer: "all_species_fill1",
     opacity: 0,
@@ -347,66 +301,6 @@ var config = {
   // subtitle: subTitleDiv,
   description: descriptionDiv,
   chapters: [
-    // {
-    //   id: "first_chunk",
-    //   alignment: "fully",
-    //   hidden: false,
-    //   chapterDiv: divChapter0,
-    //   location: {
-    //     center: [-115.774814, 42.523483],
-    //             zoom: 3.2,
-    //     zoomSmall: 9,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //       {
-    //         layer: "all_species_fill1",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "all_species_line2",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-          
-    //       {
-    //         layer: "pipeline",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_1",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_2",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_3",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_4",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_5",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //   ],
-    //   onChapterExit: [],
-    // },
     {
       id: "overallMap",
       alignment: "left",
@@ -476,7 +370,6 @@ var config = {
             opacity: 0.8,
             duration: 300,
           },
-          
           pipeline_opacity_0,
           prairie_action_area_opacity_0,
           prairie_construction_impact_opacity_0,
@@ -490,67 +383,6 @@ var config = {
       ],
       onChapterExit: [],
     },
-
-    // {
-    //   id: "overallMap",
-    //   alignment: "left",
-    //   hidden: false,
-    //   chapterDiv: divChapter1,
-    //   location: {
-    //     center: [-115.774814, 42.523483],
-    //             zoom: 3.2,
-    //     zoomSmall: 9,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //       {
-    //         layer: "all_species_fill1",
-    //         opacity: 0.5,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "all_species_line2",
-    //         opacity: 0.8,
-    //         duration: 300,
-    //       },
-          
-    //       {
-    //         layer: "pipeline",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_1",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_2",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_3",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_4",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //       {
-    //         layer: "prairie_5",
-    //         opacity: 0,
-    //         duration: 300,
-    //       },
-    //   ],
-    //   onChapterExit: [],
-    // },
     {
       id: "fly1",
       alignment: "left",
@@ -662,7 +494,6 @@ var config = {
           duration: 300,
         },
         all_species_line_opacity_0,
-        
         pipeline_opacity_0,
         prairie_action_area_opacity_0,
         prairie_construction_impact_opacity_0,
@@ -785,69 +616,6 @@ var config = {
       ],
       onChapterExit: [],
     },
-    // {
-    //   id: "fly 3b",
-    //   alignment: "left",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter6,
-    //   location: {
-    //     center: [-113.73069, 48.70176],
-    //     zoom: 10,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0.1,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // },
     {
       id: "bee_intro",
       alignment: "left",
@@ -871,7 +639,6 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
         pipeline_opacity_0,
         prairie_action_area_opacity_0,
         prairie_construction_impact_opacity_0,
@@ -909,7 +676,6 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
         pipeline_opacity_0,
         prairie_action_area_opacity_0,
         prairie_construction_impact_opacity_0,
@@ -985,7 +751,6 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
         {
           layer: "pipeline",
           opacity: 1,
@@ -1030,7 +795,6 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
         {
           layer: "pipeline",
           opacity: 1,
@@ -1054,132 +818,7 @@ var config = {
         },
       ],
     },
-    // {
-    //   id: "Bees Midwest1",
-    //   alignment: "left",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter14,
-    //   location: {
-    //     center: [-92.574814, 44.523483],
-    //     zoom: 5.5,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // },
-    // {
-    //   id: "Bees Midwest 2",
-    //   alignment: "left",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter15,
-    //   location: {
-    //     center: [-92.574814, 44.523483],
-    //     zoom: 5.51,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // },
+    
     {
       id: "Prairie1",
       alignment: "left",
@@ -1235,11 +874,7 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        {
-          layer: "pipeline",
-          opacity: 0,
-          duration: 300,
-        },
+        pipeline_opacity_0,
         {
           // base
           layer: "prairie_base",
@@ -1325,12 +960,7 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
-        {
-          layer: "pipeline",
-          opacity: 0,
-          duration: 300,
-        },
+        pipeline_opacity_0,
         {
           // base
           layer: "prairie_base",
@@ -1410,12 +1040,7 @@ var config = {
       onChapterEnter: [
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
-        
-        {
-          layer: "pipeline",
-          opacity: 0,
-          duration: 300,
-        },
+        pipeline_opacity_0,
         {
           // base
           layer: "prairie_base",
@@ -1592,11 +1217,7 @@ var config = {
         all_species_fill_opacity_0,
         all_species_line_opacity_0,
         pipeline_opacity_0,
-        {
-          layer: "pipeline",
-          opacity: 0,
-          duration: 300,
-        },
+        pipeline_opacity_0,
         {
           // base
           layer: "prairie_base",
@@ -1655,215 +1276,6 @@ var config = {
       ],
       onChapterExit: [],
     },
-    // {
-    //   id: "last_image",
-    //   alignment: "seventy",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter22,
-    //   location: {
-    //     center: [-89.120177, 42.195437],
-    //     zoom: 13.5,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   // location: {
-    //   //   // center: [-89.095967, 42.187901],
-    //   //   // zoom: 15,
-    //   //   // // zoomSmall: 14,
-    //   //   // pitch: 0,
-    //   //   // bearing: 0,
-
-    //   //   center: [-89.106067, 42.187901],
-    //   //   zoom: 14.4,
-    //   //   // zoomSmall: 14,
-    //   //   pitch: 0,
-    //   //   bearing: 0,
-
-    //   // },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     // {
-    //     //   layer: "bee",
-    //     //   opacity: 0.5,
-    //     //   duration: 300,
-    //     // },
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // },
-    // {
-    //   id: "last_chunk1",
-    //   alignment: "center",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter23,
-    //   location: {
-    //     center: [-89.120177, 42.195437],
-    //     zoom: 13.5,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // }
-   
-    // {
-    //   id: "last_chunk2",
-    //   alignment: "center",
-    //   hidden: false,
-    //   title: "",
-    //   image: "",
-    //   description: "",
-    //   chapterDiv: divChapter24,
-    //   location: {
-    //     center: [-89.120177, 42.195437],
-    //     zoom: 13.5,
-    //     // zoomSmall: 14,
-    //     pitch: 0,
-    //     bearing: 0,
-    //   },
-    //   mapAnimation: "flyTo",
-    //   rotateAnimation: false,
-    //   callback: "",
-    //   onChapterEnter: [
-    //     {
-    //       layer: "all_species_fill1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "all_species_line2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-        
-    //     {
-    //       layer: "pipeline",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_1",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_2",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_3",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_4",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //     {
-    //       layer: "prairie_5",
-    //       opacity: 0,
-    //       duration: 300,
-    //     },
-    //   ],
-    //   onChapterExit: [],
-    // },
 
   ],
 
