@@ -288,7 +288,7 @@ map.on("load", function () {
     "line-color": 
     '#ee6c4d',
     },  
-  }, 'admin-1-boundary-bg-copy-1'); 
+  }, 'state_label_sat'); 
 
 // PRAIRIE LAYERS
 
