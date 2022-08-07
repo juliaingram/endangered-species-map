@@ -900,7 +900,7 @@ var config = {
         {
           // base
           layer: "prairie_base",
-          opacity: 0.6,
+          opacity: 0.8,
           duration: 300,
         },
         {
