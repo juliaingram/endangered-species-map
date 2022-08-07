@@ -319,7 +319,8 @@ map.on("load", function () {
   //prairieB layer: Full Prairie
   map.addSource('prairie_locB', {
     'type': 'image',
-    'url': 'https://raw.githubusercontent.com/semerriam/points-unknown/main/projects/pj-critical-habitats/layers/full_prairie.gif',
+//     'url': 'https://raw.githubusercontent.com/semerriam/points-unknown/main/projects/pj-critical-habitats/layers/full_prairie.gif',
+        url': 'https://raw.githubusercontent.com/semerriam/points-unknown/main/projects/pj-critical-habitats/layers/outline.gif',
     'coordinates': [
         [-89.1215, 42.20305],
         [-89.08329, 42.20305],
