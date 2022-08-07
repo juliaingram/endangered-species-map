@@ -30,17 +30,6 @@ let descriptionDiv =
 
 ;
 
-let footerDiv =
-  // '';
-  // "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></div>" +
-  // <div class='centered2'></div>
-  
-  "<p data-paragraph='main'><img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></img></p>" + 
-  "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species’ population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to consider more than just preservation, and take into account species recovery as well. </p></div>" +
-  "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div>" 
-  +
-  "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div><br><br>"; 
-
 let divChapter0 =
   "<p>Under the Endangered Species Act, <span style='background-color:rgb(175, 157, 185, 0.6)'>critical habitats</span> were the areas deemed essential to the preservation of federally endangered or threatened species. One of the key functions of the Endangered Species Act is ensuring no federal agency destroys or damages these critical habitats with projects like road building, mining and more.</p>" +
   "<p>But under the Trump administration’s changes, critical habitats became more difficult to designate, and the Services have less power to modify federal projects that interfere with these areas. </p>"
@@ -210,6 +199,17 @@ let divChapter5 =
   ;
 
   let finalimg = "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'><div class='centered2'><h1 class='content__title'>Critical Habitats</h1><br><h5 class='content_text'>Subtitle Line Line Line Line Line Line</h5></div></div>";
+
+  let footerDiv =
+  // '';
+  // "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></div>" +
+  // <div class='centered2'></div>
+  
+  "<p data-paragraph='main'><img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'></img></p>" + 
+  "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species’ population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to consider more than just preservation, and take into account species recovery as well. </p></div>" +
+  "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div>" 
+  +
+  "<div class='textblock'> <p data-paragraph='main'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. </p></div><br><br>"; 
 
 
 // Creating Variables for layers at 0 Opacity
