@@ -51,7 +51,9 @@ let divChapter4 =
 "<p>But rising temperatures have made the glaciers their own dying breed. Of the estimated 150 glaciers that existed in Glacier National Park in 1850, only 25 remain; they are predicted to disappear entirely as early as 2030, according to the Fish and Wildlife Service.</p>";
 
 let divChapter9 =
-"<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
+"<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><controls loop autoplay width='100%'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
+// "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><controls='' autoplay='true' loop='true' width='100%' ><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
+
 
 // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='https://github.com/juliaingram/endangered-species-map/blob/main/images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
 // "<div style='max-width:100%; margin-left:auto; margin-right:auto'><iframe title='vimeo-player' src='https://player.vimeo.com/video/736983188?h=aaa982beb6&amp;' width='100%' height='100%' frameborder='0' allowfullscreen></iframe></div>";
