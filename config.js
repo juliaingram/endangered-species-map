@@ -1151,7 +1151,7 @@ var config = {
         {
           // base
           layer: "prairie_base",
-          opacity: 0.6,
+          opacity: 0.7,
           duration: 300,
         },
         {
@@ -1187,7 +1187,7 @@ var config = {
         {
           // prairie section
           layer: "prairie_road",
-          opacity: 1,
+          opacity: 0,
           // opacity: 0.8,
           duration: 300,
         },
@@ -1253,7 +1253,7 @@ var config = {
         },
         {
           layer: "prairie_full",
-          opacity: 0.5,
+          opacity: 0,
           // opacity: 1,
           duration: 300,
         },
@@ -1284,7 +1284,7 @@ var config = {
         {
           // prairie section
           layer: "prairie_road",
-          opacity: 0.7,
+          opacity: 0,
           // opacity: 0.8,
           duration: 300,
         },
