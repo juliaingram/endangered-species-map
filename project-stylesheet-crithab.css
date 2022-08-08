@@ -89,7 +89,7 @@
     padding-bottom: 0px;
 }
 
-.viz-caption{
+viz-caption{
     color: grey;
     background: white;
     font-family: 'Titillium Web';
@@ -230,10 +230,10 @@ img {
 .viz-caption{
 	color: grey;
 	font-family: 'Titillium Web';
-	font-size: 12px;
+	font-size: 8px;
 	font-weight: normal;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 1px;
+	padding-bottom: 0px;
 	max-width: 800px;	
 }
 
