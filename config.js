@@ -102,6 +102,8 @@ let divChapter5 =
   +
   "<div class='textblock'> <p data-paragraph='main'>Rusty-patched bumble bees are considered generalist foragers and live within native plant communities in a range of habitats, such as prairies, woodlands or even residential parks.  </p></div>" 
   +
+  "<br>" 
+  +
   "<div class='textblock'><div class='videoContainer'><div style='max-width:100%; margin-left:0; margin-right:0' ;='' padding:none;='' display:none;='' position:='left' relative=''><iframe src='https://www.facebook.com/plugins/video.php?height=338&href=https%3A%2F%2Fwww.facebook.com%2Fvirginianaturalheritageprogram%2Fvideos%2F2738234729829736%2F&show_text=false&width=560&t=0' width='700' height=500' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></div></div>"
   +    
   "<div class='textblock'> <p data-paragraph='main'>While the bees are relatively adaptable, the species experienced &#8220widespread and steep&#8220 population decline, according to the <a href='https://www.fws.gov/species/rusty-patched-bumble-bee-bombus-affinis'>Fish and Wildlife Service</u></a>. In the same 2011 study, the University of Illinois and U.S. The Department of Agriculture estimated that the rusty patched bumble bee population had declined by 95 percent, and losses are still ongoing, experts say.  </p>" + 
