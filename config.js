@@ -1194,13 +1194,13 @@ var config = {
         {
           // 
           layer: "prairie_construction_impact",
-          opacity: 1,
+          opacity: 0,
           // opacity: 0.8,
           duration: 300,
         },
         {
           layer: "prairie_action_area",
-          opacity: 1,
+          opacity: 0,
           duration: 300,
         },
       ],
