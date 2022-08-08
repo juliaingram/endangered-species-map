@@ -39,8 +39,10 @@ let divChapter2 =
   "<p>Climate change is the primary threat to the Western Glacier Stonefly and the Meltwater Lednian Stonefly, according to the Fish and Wildlife Service.  </p>" + 
 
   "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on <span style='background-color:rgb(190, 139, 121, 0.8)'>both flies</span>, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
-  
-  ;
++
+   "<img src='images/glacier_stonefly_usgs.png'>" +
+   "<img src='images/gmeltwater_stonefly_usgs.png'>"
+;
 
 let divChapter3 =
   // "<h3>Fly2</h3>" +
@@ -120,7 +122,6 @@ let divChapter5 =
 
   let divChapter11 =
   // "<h3>Pipeline intro VA</h3>" +
-  // '<img src="images/Chapter_4_Image.jpg">' +
   // '<p class="imageCredit"><a href="https://www.nytimes.com/2020/04/09/nyregion/coronavirus-queens-corona-jackson-heights-elmhurst.html">The New York Times</a></p>' +
   "<p>One such project, the <span style='background-color:rgb(238, 108, 77, 0.8)'>Atlantic Coast Pipeline</span>, was originally <a href='https://ecos.fws.gov/tails/pub/document/12801595'>slated</u></a> to span 650 miles, four states, multiple critical habitats and a handful of national parks.  </p>" + "<p>After years of litigation over the pipeline's path led to the project's cancellation in 2020, the Federal Energy Regulatory Commission approved a new plan for its completion in 2022. Construction is scheduled to resume as early as this fall, according to the project's <a href='https://atlanticcoastpipeline.com/'>website</u></a>. </p>"
   ;
