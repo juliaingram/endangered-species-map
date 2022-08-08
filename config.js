@@ -905,62 +905,62 @@ var config = {
         {
           // base
           layer: "prairie_base",
-          opacity: 1,
+          opacity: 0.7,
           duration: 300,
         },
         {
           layer: "prairie_full",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 1,
           duration: 300,
         },
         {
           layer: "prairie_full",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 1,
           duration: 300,
         },
         {
           layer: "prairie_degraded",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 0.8,
           duration: 300,
         },
         {
           // 
           layer: "prairie_high_quality",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 0.8,
           duration: 300,
         },
         {
           layer: "prairie_six_acres",
-          opacity: 1,
+          opacity: 0,
           duration: 300,
         },
         {
           layer: "prairie_moderate_quality",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 1,
           duration: 300,
         },
         {
           // prairie section
           layer: "prairie_road",
-          opacity: 1,
+          opacity: 0,
           // opacity: 0.8,
           duration: 300,
         },
         {
           // 
           layer: "prairie_construction_impact",
-          opacity: 1,
+          opacity: 0.9,
           // opacity: 0.8,
           duration: 300,
         },
         {
           layer: "prairie_action_area",
-          opacity: 1,
+          opacity: 0.9,
           duration: 300,
         },
       ],
