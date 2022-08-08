@@ -167,7 +167,7 @@ let divChapter5 =
 
   let divChapter20 =
 //   "<h3>PrairieD</h3>" +
- "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called <span style='background-color:rgb(237, 195, 145, 0.8)'>#8220high-quality#8220</span> areas will quickly diminish without any sort of buffer.</p>" 
+ "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called <span style='background-color:rgb(237, 195, 145, 0.8)'>&#8220high-quality&#8220</span> areas will quickly diminish without any sort of buffer.</p>" 
   + 
  "<p> &#8220Calling it high quality, low quality…is an excuse to destroy more of the prairie,&#8220 Telfer said. Prior to the discovery of the rusty-patched bumble bee in the area in 2021, the airport had already destroyed over six acres of what it called <span style='background-color:rgb(229, 211, 136, 0.8)'>&#8220low&#8220</span> and <span style='background-color:rgb(206, 154, 142, 0.8)'>&#8220moderate&#8220</span> quality prairie, including the area’s namesake &#8220bowl,&#8220 or natural amphitheater.</p>";
  
