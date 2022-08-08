@@ -145,7 +145,9 @@ let divChapter5 =
 
   let divChapter18 =
 //   "<h3>PrairieB</h3>" +
-  "<p>In the airport's biological assessment of the area, it proposes six possibilities for construction. In the most-likely scenario, roughly six acres of prairie are preserved, which will be bifurcated by a road. </p>" + "<p>&#8220It will be very hard for that remaining six [acres] to be of value,&#8220 said Robbie Telfer, another lead organizer working to save Bell Bowl Prairie, citing salt run-off, invasive seed species from passing trucks and the possible shading-out of the prairie by land grading.  </p>";
+  "<p>In the airport's biological assessment of the area, it proposes six possibilities for construction. In the most-likely scenario, roughly <span style='background-color:rgb(178, 157, 196, 0.6)'>six acres</span> of prairie are preserved, which will be bifurcated by a <span style='background-color:rgb(175, 155, 135, 0.6)'>road</span>. </p>" 
+  + 
+  "<p>&#8220It will be very hard for that remaining six [acres] to be of value,&#8220 said Robbie Telfer, another lead organizer working to save Bell Bowl Prairie, citing salt run-off, invasive seed species from passing trucks and the possible shading-out of the prairie by land grading.  </p>";
 
 //   let divChapter19 =
 // //   "<h3>PrairieC</h3>" +
@@ -989,12 +991,12 @@ var config = {
         {
           // base
           layer: "prairie_base",
-          opacity: 0.6,
+          opacity: 0.7,
           duration: 300,
         },
         {
           layer: "prairie_full",
-          opacity: 1,
+          opacity: 0.7,
           // opacity: 1,
           duration: 300,
         },
