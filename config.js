@@ -42,7 +42,7 @@ let divChapter2 =
 // +
 //    "<br><img src='images/flies2.png'>"
 // + 
-//    "<div class=core-html'><p class='viz-caption'>Images: Joe Giersch, USGS</p></div>"
+//    "<div class=core-html'><p class='viz-caption'>Images: Joe Giersch, U.S. Geological Survey</p></div>"
 ;
 
 let divChapter3 =
@@ -52,7 +52,7 @@ let divChapter3 =
    "<br><img src='images/flies2.png'>"
 + 
 //    "<div class=core-html'><p class='viz-caption'>Images: Joe Giersch, USGS</p></div>"
-   "<div class='core-html'><p class='viz-caption'>Images: Joe Giersch, USGS</p></div>"
+   "<div class='core-html'><p class='viz-caption'>Images: Joe Giersch, U.S. Geological Survey</p></div>"
 // "<p class='imageCredit>Images: Joe Giersch, USGS</p>" 
 ;
 
@@ -75,9 +75,10 @@ let divChapter5 =
 
 "<div class='textblock'><h2>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015<br><br></h2></div>" +
     
-"<div class='textblock'><img src='images/glaciers_chart2.png'></div>" + 
-       "<div class='core-html'><p class='viz-caption'>Source: ____________</p></div>" +
-    
+"<div class='textblock'><img src='images/glaciers_chart2.png'></div>" 
++ 
+"<div class='textblock'><p class='viz-caption'>Data Source: Fagre, D.B., et al. 2017 - U.S. Geological Survey</p></div>"
++    
 "<div class='textblock'> <p data-paragraph='main'><br>&#8220The fact is, a lot of the climate change impacts affect all of the species,&#8220 said Kristen Boyles, senior attorney for Earthjustice, the environmental law firm representing the conservation groups who sued both the Trump and Biden administrations over the 2019 changes to the Endangered Species Act.</p></div>"
 +
 "<div class='textblock'> <p data-paragraph='main'>Polar bears, for example, received <a href='https://www.federalregister.gov/documents/2010/12/07/2010-29925/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-polar-bear'>critical habitat designation</u></a> in 2011.</p></div>"
@@ -173,7 +174,10 @@ let divChapter5 =
   "<p>It's unknown whether or not the Bell Bowl Prairie would have been included in the rusty-patched bumble bee's critical habitat, if one had been designated. But there's little question among activists and experts that not having the distinction makes it easier for the bee's habitat in areas like the Bell Bowl Prairie to disappear.   </p>";
 
   let divChapter23 =
-  "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" +
+  "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" 
+  +
+  "<div class='textblock'><p class='viz-caption'>Photo: Crawford, Murphy & Tilly Engineering, October 2021</p></div>"
+  +
   "<br><div class='textblock'> <p data-paragraph='main'>Over the coming weeks and months, the California U.S. District Court will determine its verdict on the appeal filed by industry groups and 13 Republican-led states. Until then, if the stay is granted, Trump's 2019 regulations will remain in place.   </p></div>" +
   "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species' population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to take their efforts a step further and consider species recovery in addition to their preservation.  </p></div>" 
   +
