@@ -475,6 +475,7 @@ body {
 	  text-align: left;
 	  font-size: 1em;
 	  max-width: 600px;
+	  font-color: black;
 	  /* margin: 1em auto 1em auto; */
   }
   #features h3 {
@@ -482,12 +483,14 @@ body {
 	  text-transform: uppercase;
 	  font-family: 'Titillium Web';
 	  text-align: left;
+	  font-color: black;
 	  max-width: 50vw;
   }
   #features p {
 	  font-family: 'Titillium Web';
 	  text-align: left;
 	  font-size: 1.2em;
+	  font-color: black;
 	  max-width: 50vw;
 	  
   }
@@ -563,11 +566,11 @@ body {
 	opacity: 1, */
 	}
   .light {
-	color: #444;
+	font-color: black;
 	background-color: white;
   }
   .dark {
-	color: #fafafa;
+	font-color: black;
 	background-color: #444;
   }
 
@@ -595,7 +598,7 @@ body {
 	margin-bottom: 30rem;
 	background-color: #eee;
 	background-color: #fff;
-	color: black;
+	font-color: black;
   }
   .step.active {
 	opacity: 1;
