@@ -52,8 +52,8 @@ let divChapter3 =
    "<br><img src='images/flies2.png'>"
 + 
 //    "<div class=core-html'><p class='viz-caption'>Images: Joe Giersch, USGS</p></div>"
-//    "<p class='viz-caption'>Images: Joe Giersch, USGS</p>"
-"<p class='imageCredit>Images: Joe Giersch, USGS</p>" 
+   "<p class='viz-caption'>Images: Joe Giersch, USGS</p>"
+// "<p class='imageCredit>Images: Joe Giersch, USGS</p>" 
 ;
 
 let divChapter4 = 
