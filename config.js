@@ -155,7 +155,7 @@ let divChapter5 =
 
   let divChapter20 =
 //   "<h3>PrairieD</h3>" +
-  "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called high-quality areas will quickly diminish without any sort of buffer.   </p>" ;
+  "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called <span style='background-color:rgb(237, 195, 145, 0.6)'>high-quality areas</span> will quickly diminish without any sort of buffer.   </p>" ;
 
   let divChapter21 =
   "<p>At the time of the bee's discovery, the airport had already built its roadway on either side of the prairie, where it remains today, an eerie reminder of the pending determination from the Fish and Wildlife Service.  </p>" + 
