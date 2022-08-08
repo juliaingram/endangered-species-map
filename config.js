@@ -35,7 +35,7 @@ let divChapter1 =
 
 
 let divChapter2 =
-  "<h3></h3>" +
+//   "<h3></h3>" +
   "<p>Climate change is the primary threat to the Western Glacier Stonefly and the Meltwater Lednian Stonefly, according to the Fish and Wildlife Service.  </p>" + 
 
   "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on both flies, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
@@ -68,6 +68,8 @@ let divChapter5 =
 "<div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
 +
 "<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last. </p></div>" + 
+
+"<h3>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015</h3>" +
     
 "<div class='textblock'><br><img src='images/glaciers_chart.png'></div>" + 
     
