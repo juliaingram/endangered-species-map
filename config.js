@@ -176,7 +176,7 @@ let divChapter5 =
   let divChapter23 =
   "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" 
   +
-  "<p class='viz-caption'>Photo: Crawford, Murphy & Tilly Engineering, October 2021</p>"
+  "<p class='viz-caption'>Image: Crawford, Murphy & Tilly Engineering, October 2021</p>"
   +
   "<br><div class='textblock'> <p data-paragraph='main'>Over the coming weeks and months, the California U.S. District Court will determine its verdict on the appeal filed by industry groups and 13 Republican-led states. Until then, if the stay is granted, Trump's 2019 regulations will remain in place.   </p></div>" +
   "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species' population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to take their efforts a step further and consider species recovery in addition to their preservation.  </p></div>" 
