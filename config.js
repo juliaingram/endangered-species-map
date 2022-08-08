@@ -167,16 +167,18 @@ let divChapter5 =
 
   let divChapter20 =
 //   "<h3>PrairieD</h3>" +
-  "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called <span style='background-color:rgb(237, 195, 145, 0.8)'>high-quality areas</span> will quickly diminish without any sort of buffer.   </p>" ;
-
+ "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called <span style='background-color:rgb(237, 195, 145, 0.8)'>high-quality areas</span> will quickly diminish without any sort of buffer.</p>" 
+  + 
+ "<p> &#8220Calling it high quality, low quality…is an excuse to destroy more of the prairie,&#8220 Telfer said. Prior to the discovery of the rusty-patched bumble bee in the area in 2021, the airport had already destroyed over six acres of what it called <span style='background-color:rgb(229, 211, 136, 0.6)'>&#8220low&#8220</span> and <span style='background-color:rgb(206, 154, 142, 0.6)'>&#8220moderate&#8220</span> quality prairie, including the area’s namesake &#8220bowl,&#8220 or natural amphitheater.</p>";
+ 
   let divChapter21 =
   "<p>At the time of the bee's discovery, the airport had already built its roadway on either side of the prairie, where it remains today, an eerie reminder of the pending determination from the Fish and Wildlife Service.  </p>" + 
-  "<p>It's unknown whether or not the Bell Bowl Prairie would have been included in the rusty-patched bumble bee's critical habitat, if one had been designated. But there's little question among activists and experts that not having the distinction makes it easier for the bee's habitat in areas like the Bell Bowl Prairie to disappear.   </p>";
+  "<p>It's unknown whether or not the Bell Bowl Prairie would have been included in the rusty-patched bumble bee's critical habitat, if one had been designated. But there's little question among activists and experts that not having the distinction makes it easier for the bee's habitat in areas like the Bell Bowl Prairie to disappear.</p>";
 
   let divChapter23 =
   "<div class='full_bleed_container'> <img src='images/prairie_road.jpg'  alt='Bowl Prairie' style='width:100%'></div>" 
   +
-  "<p class='viz-caption'>Photo: Crawford, Murphy & Tilly Engineering, October 2021</p>"
+  "<p class='viz-caption'>Image: Crawford, Murphy & Tilly Engineering, October 2021</p>"
   +
   "<br><div class='textblock'> <p data-paragraph='main'>Over the coming weeks and months, the California U.S. District Court will determine its verdict on the appeal filed by industry groups and 13 Republican-led states. Until then, if the stay is granted, Trump's 2019 regulations will remain in place.   </p></div>" +
   "<div class='textblock'> <p data-paragraph='main'>Critical habitats are important because they grant an additional layer of protection against projects and activities that could accelerate a species' population decline. They compel the Fish and Wildlife and National Marine Fisheries Services to take their efforts a step further and consider species recovery in addition to their preservation.  </p></div>" 
