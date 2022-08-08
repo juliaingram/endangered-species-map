@@ -38,7 +38,7 @@ let divChapter2 =
 //   "<h3></h3>" +
   "<p>Climate change is the primary threat to the Western Glacier Stonefly and the Meltwater Lednian Stonefly, according to the Fish and Wildlife Service.  </p>" + 
 
-  "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on both flies, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
+  "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on <span style='background-color:rgb(190, 139, 121, 0.8)'>both flies</span>, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
   
   ;
 
@@ -48,19 +48,12 @@ let divChapter3 =
 
 let divChapter4 = 
 // "<h3>Fly3</h3>" +
-// '<img src="images/Chapter_3_Image.jpg">' +
 "<p>But rising temperatures have made the glaciers their own dying breed. Of the estimated 150 glaciers that existed in Glacier National Park in 1850, only 25 remain; they are predicted to disappear entirely as early as 2030, according to the Fish and Wildlife Service.</p>";
-
-//NOTE TO GROUP: we moved up this sentence, but susan, im not sure how to get rid of this chapter without breaking the map?
-//let divChapter8 =
-//"<p>They are predicted to disappear entirely as early as 2030, according to the Fish and Wildlife Service.</p>";
-
 
 let divChapter9 =
 "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
-//     "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='https://github.com/juliaingram/endangered-species-map/blob/main/images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
 
-
+// "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='https://github.com/juliaingram/endangered-species-map/blob/main/images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
 // "<div style='max-width:100%; margin-left:auto; margin-right:auto'><iframe title='vimeo-player' src='https://player.vimeo.com/video/736983188?h=aaa982beb6&amp;' width='100%' height='100%' frameborder='0' allowfullscreen></iframe></div>";
 
 
