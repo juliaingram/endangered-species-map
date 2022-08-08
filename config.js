@@ -67,7 +67,7 @@ let divChapter9 =
 let divChapter5 =
 "<div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
 +
-"<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last. </p></div>" + 
+"<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last.<br> </p></div>" + 
 
 "<div class='textblock'><h2>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015</h2></div>" +
     
