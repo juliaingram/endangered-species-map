@@ -67,11 +67,8 @@ let divChapter9 =
 let divChapter5 =
 "<div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
 +
-"<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last. </p></div>" +
-"<br><div class='glacier'><br><iframe frameborder='0' class='juxtapose' width='100%' height='620' src='https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0deb45ac-1291-11ed-b5bb-6595d9b17862'></div></iframe>"
-+
-// "<div class='textblock'><div class='caption'><p class='viz-caption'>Source: U.S. Securities and Exchange Commission — Investment Adviser Public Disclosure Forms</p></div></div><br><br>" +
-
+"<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last. </p></div>" + 
+"<br><img src='images/glaciers_chart.png'>" + 
 "<div class='textblock'> <p data-paragraph='main'><br>&#8220The fact is, a lot of the climate change impacts affect all of the species,&#8220 said Kristen Boyles, senior attorney for Earthjustice, the environmental law firm representing the conservation groups who sued both the Trump and Biden administrations over the 2019 changes to the Endangered Species Act.</p></div>"
 +
 "<div class='textblock'> <p data-paragraph='main'>Polar bears, for example, received <a href='https://www.federalregister.gov/documents/2010/12/07/2010-29925/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-polar-bear'>critical habitat designation</u></a> in 2011.</p></div>"
@@ -84,6 +81,10 @@ let divChapter5 =
 +
 "<div class='textblock'> <p data-paragraph='main'>Just months after the Trump Administration's changes to the Endangered Species Act were put into place, the Fish and Wildlife Service published its <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>final rule</u></a> on the status of the two stoneflies, finding the designation of a critical habitat was &#8220not prudent&#8220 under the new regulations. </p></div>"
 +
+"<br><div class='glacier'><br><iframe frameborder='0' class='juxtapose' width='100%' height='620' src='https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0deb45ac-1291-11ed-b5bb-6595d9b17862'></div></iframe>"
++
+// "<div class='textblock'><div class='caption'><p class='viz-caption'>Source: U.S. Securities and Exchange Commission — Investment Adviser Public Disclosure Forms</p></div></div><br><br>" +
+
 "<div class='textblock'> <p data-paragraph='main'>&#8220You can go one of two ways with this,&#8220 said Noah Greenwald, Endangered Species Director at the Center for Biological Diversity. &#8220You can say it's threatened by climate change, so we can't do anything. Or you can say, it's threatened by climate change, so it needs all the help it can get.&#8220 </p></div>" +
 "<div class='textblock'> <p data-paragraph='main'>After the 2019 changes, the Service's only choice was the former. <br><br></p></div>";
 
