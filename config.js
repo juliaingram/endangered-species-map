@@ -39,14 +39,16 @@ let divChapter2 =
   "<p>Climate change is the primary threat to the Western Glacier Stonefly and the Meltwater Lednian Stonefly, according to the Fish and Wildlife Service.  </p>" + 
 
   "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on <span style='background-color:rgb(190, 139, 121, 0.8)'>both flies</span>, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
-+
-   "<img src='images/glacier_stonefly_usgs.png'>" +
-   "<img src='images/meltwater_stonefly_usgs.png'>" 
 ;
 
 let divChapter3 =
   // "<h3>Fly2</h3>" +
-  "<p>Both stoneflies depend on extremely cold glacial meltwater for their survival. They are found in high-elevation alpine streams, like those in Glacier National Park and Grand Teton National Park.   </p>";
+  "<p>Both stoneflies depend on extremely cold glacial meltwater for their survival. They are found in high-elevation alpine streams, like those in Glacier National Park and Grand Teton National Park.   </p>"
++
+   "<img src='images/glacier_stonefly_usgs.png'>" 
++
+   "<img src='images/meltwater_stonefly_usgs.png'>" 
+;
 
 let divChapter4 = 
 // "<h3>Fly3</h3>" +
