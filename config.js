@@ -71,7 +71,7 @@ let divChapter5 =
 
 "<h3>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015</h3>" +
     
-"<div class='textblock'><br><img src='images/glaciers_chart.png'></div>" + 
+"<div class='textblock'><img src='images/glaciers_chart2.png'></div>" + 
     
 "<div class='textblock'> <p data-paragraph='main'><br>&#8220The fact is, a lot of the climate change impacts affect all of the species,&#8220 said Kristen Boyles, senior attorney for Earthjustice, the environmental law firm representing the conservation groups who sued both the Trump and Biden administrations over the 2019 changes to the Endangered Species Act.</p></div>"
 +
