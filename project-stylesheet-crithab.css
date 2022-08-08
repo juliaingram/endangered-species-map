@@ -496,7 +496,8 @@ body {
   }
   #features .imageCredit {
 	font-size: 0.9em;
-	margin-top: -5px;
+/* 	margin-top: -5px; */
+	margin-top: 0px;
   }
 
   /* #footer p {
