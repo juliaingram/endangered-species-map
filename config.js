@@ -47,10 +47,12 @@ let divChapter2 =
 let divChapter3 =
   // "<h3>Fly2</h3>" +
   "<p>Both stoneflies depend on extremely cold glacial meltwater for their survival. They are found in high-elevation alpine streams, like those in Glacier National Park and Grand Teton National Park.   </p>"
+// +
+//    "<br><img src='images/glacier_stonefly_usgs_long.png'>" 
+// +
+//    "<img src='images/meltwater_stonefly_usgs.png'>" 
 +
-   "<br><img src='images/glacier_stonefly_usgs_long.png'>" 
-+
-   "<img src='images/meltwater_stonefly_usgs.png'>" 
+   "<br><img src='images/flies.png'>" 
 ;
 
 let divChapter4 = 
