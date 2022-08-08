@@ -22,7 +22,7 @@ let descriptionDiv =
 "<div class='textblock'><p data-paragraph='main'>While the legal battle pans out, at least these three species face irreparable harm from climate change, pesticides and infrastructure projects.  <br><br><br><br><br></p></div>" ;
 
 let divChapter0 =
-  "<p>Under the Endangered Species Act, <span style='background-color:rgb(175, 157, 185, 0.6)'>critical habitats</span> are areas deemed essential to the preservation of federally endangered or threatened species. One of the key functions of the Endangered Species Act is ensuring no federal agency destroys these critical habitats with projects like road building or mining. </p>" +
+  "<p>Under the Endangered Species Act, <br><span style='background-color:rgb(175, 157, 185, 0.6)'>critical habitats</span> are areas deemed essential to the preservation of federally endangered or threatened species. One of the key functions of the Endangered Species Act is ensuring no federal agency destroys these critical habitats with projects like road building or mining. </p>" +
   "<p>But under the Trump administration's changes, critical habitats are more difficult to designate, and the Fish and Wildlife and National Marine Fisheries Services have less power to modify federal projects that interfere with these areas. </p>"
   ;
 
@@ -68,7 +68,9 @@ let divChapter5 =
 "<div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
 +
 "<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last. </p></div>" + 
-"<br><img src='images/glaciers_chart.png'>" + 
+    
+"<div class='textblock'><br><img src='images/glaciers_chart.png'></div>" + 
+    
 "<div class='textblock'> <p data-paragraph='main'><br>&#8220The fact is, a lot of the climate change impacts affect all of the species,&#8220 said Kristen Boyles, senior attorney for Earthjustice, the environmental law firm representing the conservation groups who sued both the Trump and Biden administrations over the 2019 changes to the Endangered Species Act.</p></div>"
 +
 "<div class='textblock'> <p data-paragraph='main'>Polar bears, for example, received <a href='https://www.federalregister.gov/documents/2010/12/07/2010-29925/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-polar-bear'>critical habitat designation</u></a> in 2011.</p></div>"
