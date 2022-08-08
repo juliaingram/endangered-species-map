@@ -40,7 +40,7 @@ let divChapter2 =
 
   "<p>In 2016, the Fish and Wildlife Service published a <a href='https://www.federalregister.gov/documents/2019/11/21/2019-25195/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-meltwater-lednian'>proposed ruling</u></a> on <span style='background-color:rgb(190, 139, 121, 0.8)'>both flies</span>, recommending each be brought under the protection of the Endangered Species Act as a &#8220threatened&#8220 species. The next step for the Service, as outlined in its proposal, was to publish a final rule and designate a critical habitat for each stonefly.  </p>"
 +
-   "<br><img src='images/flies.png'>" 
+   "<br><img src='images/flies2.png'>" 
 
 ;
 
@@ -51,8 +51,8 @@ let divChapter3 =
 //    "<br><img src='images/glacier_stonefly_usgs_long.png'>" 
 // +
 //    "<img src='images/meltwater_stonefly_usgs.png'>" 
-+
-   "<br><img src='images/flies2.png'>" 
+// +
+//    "<br><img src='images/flies2.png'>" 
 ;
 
 let divChapter4 = 
