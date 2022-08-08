@@ -52,7 +52,7 @@ let divChapter3 =
 // +
 //    "<img src='images/meltwater_stonefly_usgs.png'>" 
 +
-   "<br><img src='images/flies.png'>" 
+   "<br><img src='images/flies2.png'>" 
 ;
 
 let divChapter4 = 
