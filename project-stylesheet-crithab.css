@@ -120,7 +120,8 @@
 
 body{
 	font-family:"Titillium Web","Helvetica Neue",Helvetica,Arial,sans-serif;
-	color:#222;
+/* 	color:#222; */
+	color: black;
 	overflow:hidden;
 	overflow-y:auto}
 	@media screen and (max-width:767px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%}
