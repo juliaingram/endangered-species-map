@@ -3,7 +3,7 @@
 let titleDiv = "<div class='full_bleed_container'> <img src='images/outdoors_base-1659114935864_test.png'  alt='Glacier National Park' style='width:100%'><div class='centered2'><h1 class='content__title'>Critical Habitats in Question</h1><br><h5 class='content_text'>At least three species' habitats remain unprotected while Trump-era endangered species regulations face legal challenge</h5></div></div>";
 
 let bylineDiv = "<br><br><br><div class='textblock'><p class='single-metadata-single-topic'> <span style='color: #5a6b3e'> <strong> " +
-    " By Jessie Blaeser, Julia Ingram, Tanaz Meghjani, and Susan Merriam</strong></span></p>" + "<p class='topic single-topic'><time class='datetime'>Sep. 9, 2022</time></div></div>";
+    " By Jessie Blaeser, Julia Ingram, Tanaz Meghjani, and Susan Merriam</strong></span></p>" + "<p class='topic single-topic'><time class='datetime'>Aug. 9, 2022</time></div></div>";
 
 let descriptionDiv =
 "<div class='textblock'><p data-paragraph='main'>In 2019, the Trump administration made the first changes to the Endangered Species Act in decades, loosening protections and making it more difficult to win critical habitat designation for all newly-listed federally threatened and endangered species. </p></div>" + 
@@ -114,7 +114,7 @@ let divChapter5 =
   "<div class='textblock'> <p data-paragraph='main'>The bees also did not receive critical habitat designation because the primary threat to their habitat is the use of pathogens and pesticides in farm land, which, like climate change, the Fish and Wildlife Service does not have the ability to regulate.   </p>" +
   "<div class='textblock'> <p data-paragraph='main'>Experts and conservationists vehemently disagreed with the Fish and Wildlife Service's ruling that the bumble bee did not need critical habitat designation, arguing that while suitable habitat still exists, if it is not protected, it will soon disappear.   </p>" + 
   "<div class='textblock'> <p data-paragraph='main'>&#8220The habitat may be there, but if it's being continuously poisoned by pesticide spraying, the bee is not able to use it,&#8220 Greenwald, of the Center for Biological Diversity, said.   </p>" +
-  "<div class='textblock'> <p data-paragraph='main'>Because the Fish and Wildlife Service did not designate a critical habitat, federally-funded projects that interfere with the rusty-patched bumble bee's current range face less scrutiny, which activists argue will further damage the bee's population. Ongoing projects include roads, pipelines and more, according to data from the Fish and Wildlife Service. </p></div><br><br>";
+  "<div class='textblock'> <p data-paragraph='main'>Because the Fish and Wildlife Service did not designate a critical habitat, federally-funded projects that interfere with the rusty-patched bumble bee's current range face less scrutiny. Activists argue this will only accelerate the bee's population decline.</p></div><br><br>";
 
   let divChapter11 =
   // "<h3>Pipeline intro VA</h3>" +
@@ -133,7 +133,7 @@ let divChapter5 =
 
   let divChapter16 =
 //   "<h3>Prairie1</h3>" +
-  "<p>On a hillside in Rockport, Illinois, there is a 14-acre plot of land home to the rusty-patched bumble bee that has not been touched for thousands of years. </p>" + 
+  "<p>Meanwhile, on a hillside in Rockport, Illinois, there is a 14-acre plot of land home to the rusty-patched bumble bee that has not been touched for thousands of years. </p>" + 
   "<p>Within it, an ecological symphony exists; rare plants feed off fungi in the soil, and threatened and endangered birds and insects can interact in relative peace, away from the international airport that surrounds the haven.</p>" + 
   "<p>But these species, including the bumble bee, have less than two months left before activists say the habitat will be destroyed.   </p>";
 
@@ -153,8 +153,7 @@ let divChapter5 =
 
   let divChapter20 =
 //   "<h3>PrairieD</h3>" +
-  "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called high-quality areas will quickly diminish without any sort of buffer.   </p>" + 
-  "<p>While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called high-quality areas will quickly diminish without any sort of buffer.   </p>";
+  "<p> While the airport has argued it is preserving the &#8220highest&#8220 quality habitat within the prairie in its biological assessment submitted to the Fish and Wildlife Service, Telfer points out the so-called high-quality areas will quickly diminish without any sort of buffer.   </p>" ;
 
   let divChapter21 =
   "<p>At the time of the bee's discovery, the airport had already built its roadway on either side of the prairie, where it remains today, an eerie reminder of the pending determination from the Fish and Wildlife Service.  </p>" + 
