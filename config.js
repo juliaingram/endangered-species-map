@@ -69,7 +69,7 @@ let divChapter5 =
 +
 "<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last.<br><br> </p></div>" + 
 
-"<div class='textblock'><h2>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015<br></h2></div>" +
+"<div class='textblock'><h2>Total area of glaciers inhabited by the Western Glacial Stonefly in Montana’s Glacier National Park, 1966 to 2015<br><br></h2></div>" +
     
 "<div class='textblock'><img src='images/glaciers_chart2.png'></div>" + 
     
