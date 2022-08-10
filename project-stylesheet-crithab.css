@@ -727,7 +727,7 @@ body {
 	text-align: left;
 	color: #eceee8;
 	font-weight: 400;
-	padding-left: 2%;
+	padding-left: 0.5%;
 	/* animation-delay: calc(var(--delay-anim) + var(--time-anim) * 0.25); */
 	}
 	
