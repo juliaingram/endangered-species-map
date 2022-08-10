@@ -539,7 +539,7 @@ var config = {
     {
       id: "fly_pan",
       // alignment: "seventy",
-      alignment: "full",
+      alignment: "fully",
       hidden: false,
       title: "",
       image: "",
