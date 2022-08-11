@@ -27,7 +27,7 @@ let divChapter0 =
   ;
 
 let divChapter1 =
-  "<br><br><br><br><div class='textblock'><p data-paragraph='main'>One key change makes it harder for both agencies to grant critical habitats: if the primary threat to a species' habitat is outside the agencies' control, they can't designate a critical habitat.  </p></div>" + 
+  "<br><br><br><div class='textblock'><p data-paragraph='main'>One key change makes it harder for both agencies to grant critical habitats: if the primary threat to a species' habitat is outside the agencies' control, they can't designate a critical habitat.  </p></div>" + 
   
   "<div class='textblock'><p data-paragraph='main'>Threats to habitats can come in many forms, but one looms larger than the rest, and is far outside the sole control of the Fish and Wildlife or National Marine Fisheries Services: climate change.  </p></div>" + 
   
@@ -113,7 +113,7 @@ let divChapter5 =
 
 
   let divChapter10 = 
-  "<br><br><br><br><div class='textblock'> <p data-paragraph='main'>The rusty-patched bumble bee carries huge economic influence. Historically found in areas ranging from the upper midwest to the eastern seaboard, these wild pollinators play an outsized role in pollinating crops like tomatoes and berries, according to a <a href='https://www.pnas.org/doi/10.1073/pnas.1014743108'>2011 study</u></a> on the species' population decline conducted by the University of Illinois and the U.S. Department of Agriculture. </p></div>" 
+  "<br><br><br><div class='textblock'> <p data-paragraph='main'>The rusty-patched bumble bee carries huge economic influence. Historically found in areas ranging from the upper midwest to the eastern seaboard, these wild pollinators play an outsized role in pollinating crops like tomatoes and berries, according to a <a href='https://www.pnas.org/doi/10.1073/pnas.1014743108'>2011 study</u></a> on the species' population decline conducted by the University of Illinois and the U.S. Department of Agriculture. </p></div>" 
   +
   "<div class='textblock'> <p data-paragraph='main'>Rusty-patched bumble bees are considered generalist foragers and live within native plant communities in a range of habitats, such as prairies, woodlands or even residential parks.  </p></div>" 
   +
