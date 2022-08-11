@@ -71,7 +71,7 @@ let divChapter4 =
 let divChapter5 =
 "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay muted loop='true'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>" 
 + 
-"<div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
+"<br><br><div class='textblock'> <p data-paragraph='main'>Under the Trump Administration's changes to the Endangered Species Act, the reasons for the threat to these insects' habitat — rising water temperatures and drought as a result of climate change — cannot be addressed by the Fish and Wildlife Service and therefore preclude these areas from additional protections.<br></p></div>" 
 +
 "<div class='textblock'><p data-paragraph='main'>Stoneflies are hardly the first federally-protected species threatened by climate change, nor are they likely to be the last.<br><br> </p></div>" + 
 
