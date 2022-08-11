@@ -60,9 +60,9 @@ let divChapter4 =
 // "<h3>Fly3</h3>" +
 "<p>But rising temperatures have made the glaciers their own dying breed. Of the estimated 150 glaciers that existed in Glacier National Park in 1850, only 25 remain. They are predicted to disappear entirely as early as 2030, according to the Fish and Wildlife Service.</p>";
 
-let divChapter9 =
-// "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><controls loop autoplay width='100%'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>";
-"<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay muted loop='true'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
+// let divChapter9 =
+// // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><controls loop autoplay width='100%'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>";
+// "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay muted loop='true'><source src='images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
 
 // "<div class='videoContainer'><div style='max-width:100%; margin-left:auto; margin-right:auto' ;='' padding:none;='' display:none;='' position:='' relative=''><video controls='' width='100%' autoplay='true' loop='true'><source src='https://github.com/juliaingram/endangered-species-map/blob/main/images/Glacier_Flyover.mp4' type='video/mp4'></video></div></div>"
 // "<div style='max-width:100%; margin-left:auto; margin-right:auto'><iframe title='vimeo-player' src='https://player.vimeo.com/video/736983188?h=aaa982beb6&amp;' width='100%' height='100%' frameborder='0' allowfullscreen></iframe></div>";
@@ -538,41 +538,41 @@ var config = {
     //   ],
     //   onChapterExit: [],
     // },
-    {
-      id: "fly_pan",
-      // alignment: "seventy",
-      alignment: "fully",
-      hidden: false,
-      title: "",
-      image: "",
-      description: "",
-      chapterDiv: divChapter9,
-      location: {
-        center: [-113.73069, 48.77176],
-        zoom: 14,
-        // zoomSmall: 14,
-        pitch: 60,
-        bearing: 65
-      },
-      mapAnimation: "flyTo",
-      rotateAnimation: false,
-      callback: "",
-      onChapterEnter: [
-        all_species_fill_opacity_0,
-        all_species_line_opacity_0, 
-        pipeline_opacity_0,
-        prairie_action_area_opacity_0,
-        prairie_construction_impact_opacity_0,
-        prairie_road_opacity_0,
-        prairie_moderate_quality_opacity_0,
-        prairie_six_acres_opacity_0,
-        prairie_high_quality_opacity_0,
-        prairie_degraded_opacity_0,
-        prairie_full_opacity_0,
-        prairie_base_opacity_0,
-      ],
-      onChapterExit: [],
-    },
+//     {
+//       id: "fly_pan",
+//       // alignment: "seventy",
+//       alignment: "fully",
+//       hidden: false,
+//       title: "",
+//       image: "",
+//       description: "",
+//       chapterDiv: divChapter9,
+//       location: {
+//         center: [-113.73069, 48.77176],
+//         zoom: 14,
+//         // zoomSmall: 14,
+//         pitch: 60,
+//         bearing: 65
+//       },
+//       mapAnimation: "flyTo",
+//       rotateAnimation: false,
+//       callback: "",
+//       onChapterEnter: [
+//         all_species_fill_opacity_0,
+//         all_species_line_opacity_0, 
+//         pipeline_opacity_0,
+//         prairie_action_area_opacity_0,
+//         prairie_construction_impact_opacity_0,
+//         prairie_road_opacity_0,
+//         prairie_moderate_quality_opacity_0,
+//         prairie_six_acres_opacity_0,
+//         prairie_high_quality_opacity_0,
+//         prairie_degraded_opacity_0,
+//         prairie_full_opacity_0,
+//         prairie_base_opacity_0,
+//       ],
+//       onChapterExit: [],
+//     },
     {
       id: "fly_chunk",
       alignment: "center",
